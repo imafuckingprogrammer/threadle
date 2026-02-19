@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Background -->
+  <rect width="32" height="32" rx="8" fill="#1A1A18"/>
+  <!-- Thread: two letter boxes connected by a line -->
+  <rect x="6" y="5" width="8" height="8" rx="1.5" fill="none" stroke="#F4F3EF" stroke-width="1.5"/>
+  <rect x="18" y="19" width="8" height="8" rx="1.5" fill="none" stroke="#F4F3EF" stroke-width="1.5"/>
+  <!-- Thread line -->
+  <line x1="14" y1="9" x2="18" y2="23" stroke="#F4F3EF" stroke-width="1.2" stroke-linecap="round"/>
+</svg>
